@@ -53,8 +53,8 @@ Structure
 
 | Component | Description |
 | --- | --- |
-| [easy-system/es-routing](https://github.com/easy-system/es-controller-routing)       | The package provides the routing of http request. |
-| [easy-system/es-dispatcher](https://github.com/easy-system/es-controller-dispatcher) | The package provides the dispatching of system controllers. |
+| [easy-system/es-routing](https://github.com/easy-system/es-routing)       | The package provides the routing of http request. |
+| [easy-system/es-dispatcher](https://github.com/easy-system/es-dispatcher) | The package provides the dispatching of system controllers. |
 | easy-system/es-finisher | In developing |
 | easy-system/es-error    | In developing |
 
@@ -65,5 +65,4 @@ Structure
 | [easy-system/es-debug]()      | In developing |
 | [easy-system/es-database]()   | In developing |
 | [easy-system/es-navigation]() | In developing |
-
 
