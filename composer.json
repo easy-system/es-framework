@@ -1,0 +1,19 @@
+{
+    "name": "easy-system/es-framework",
+    "description": "Easy System Framework",
+    "keywords": [
+        "framework",
+        "easy system",
+        "es"
+    ],
+    "authors": [
+        {
+            "name": "Damon Smith",
+            "email": "damon.easy.system@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^5.5 || ^7.0"
+    },
+    "minimum-stability": "dev"
+}
