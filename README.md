@@ -62,7 +62,7 @@ Structure
 
 | Component | Description |
 | --- | --- |
-| [easy-system/es-debug]()      | In developing |
-| [easy-system/es-database]()   | In developing |
-| [easy-system/es-navigation]() | In developing |
+| easy-system/es-debug      | In developing |
+| easy-system/es-database   | In developing |
+| easy-system/es-navigation | In developing |
 
