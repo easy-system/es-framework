@@ -36,6 +36,7 @@ Structure
 | [easy-system/es-events](https://github.com/easy-system/es-events)     | The package provides an implementation of event-driven architecture. |
 | [easy-system/es-system](https://github.com/easy-system/es-system)     | The event based system. |
 | [easy-system/es-modules](https://github.com/easy-system/es-modules)   | The package provides the functionality of modular system. |
+| [easy-system/es-server](https://github.com/easy-system/es-server)     | The package provides exchange of HTTP messages with clients. |
 
 ### System Level II, MVC Layer
 
