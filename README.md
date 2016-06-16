@@ -46,7 +46,7 @@ Structure
 | [easy-system/es-controllers](https://github.com/easy-system/es-controllers)               | The package provides the implementation of MVC controllers in modular system. |
 | [easy-system/es-controller-plugins](https://github.com/easy-system/es-controller-plugins) | The package provides the functionality of the controller plugins.
 | [easy-system/es-view](https://github.com/easy-system/es-view)                             | The package provides the implementation of MVC view in modular system. |
-| easy-system/es-view-helpers | In developing
+| [easy-system/es-view-helpers](https://github.com/easy-system/es-view-helpers)             | The package provides the functionality of the view helpers.
 | easy-system/es-template     | In developing
 | easy-system/es-models       | In developing
 
