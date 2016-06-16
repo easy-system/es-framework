@@ -48,7 +48,7 @@ Structure
 | [easy-system/es-view](https://github.com/easy-system/es-view)                             | The package provides the implementation of MVC view in modular system. |
 | [easy-system/es-view-helpers](https://github.com/easy-system/es-view-helpers)             | The package provides the functionality of the view helpers.
 | [easy-system/es-template](https://github.com/easy-system/es-template)                     | The default system template engine.
-| easy-system/es-models       | In developing
+| [easy-system/es-models](https://github.com/easy-system/es-models)                         | The package provides the implementation of MVC models in modular system.
 
 ### System Level III, System handlers
 
