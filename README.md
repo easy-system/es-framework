@@ -57,7 +57,7 @@ Structure
 | [easy-system/es-routing](https://github.com/easy-system/es-routing)       | The package provides the routing of http request. |
 | [easy-system/es-dispatcher](https://github.com/easy-system/es-dispatcher) | The package provides the dispatching of system controllers. |
 | [easy-system/es-finisher](https://github.com/easy-system/es-finisher)     | The package provides sending an http response. |
-| [easy-system/es-error](https://github.com/easy-system/es-finisher)        | The package provides strategies of handling fatal system errors. |
+| [easy-system/es-error](https://github.com/easy-system/es-errors)          | The package provides strategies of handling fatal system errors. |
 
 ### System Level IV, Application layer
 
