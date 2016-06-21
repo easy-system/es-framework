@@ -63,7 +63,6 @@ Structure
 
 | Component | Description |
 | --- | --- |
-| easy-system/es-debug      | In developing |
+| [easy-system/es-debug](https://github.com/easy-system/es-debug) | The package provides the debug feature. |
 | easy-system/es-database   | In developing |
 | easy-system/es-navigation | In developing |
-
